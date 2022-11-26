@@ -3,6 +3,7 @@
 [tauri](https://tauri.app/) (Rust + React (+ TypeScript)) を使用した。
 テキストエディタです。
 
+![image](https://user-images.githubusercontent.com/35216399/204095158-f8bcefad-1f83-4099-b91f-1da611aaf236.png)
 
 
 ## how to run 
