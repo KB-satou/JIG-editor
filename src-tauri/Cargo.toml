@@ -1,8 +1,8 @@
 [package]
 name = "JIG-editor"
-version = "0.0.0"
+version = "0.0.1"
 description = "A Tauri App"
-authors = ["you"]
+authors = ["K.B.satou"]
 license = ""
 repository = ""
 edition = "2021"
